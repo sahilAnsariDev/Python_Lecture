@@ -38,5 +38,5 @@ print("dictionary of person",person)
 
 #touple
 
-person1 = ("tufail","khan",)
+person2 = ("tufail","khan",)
 print(person1)
